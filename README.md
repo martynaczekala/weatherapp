@@ -1,1 +1,4 @@
-Weather app in Vanilla JS using Open Weather API
+Weather app based on user localization using Open Weather API.
+
+Used : HTML, CSS, JavaScript
+
