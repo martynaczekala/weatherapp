@@ -1,18 +1,4 @@
 
-   /* function addWeatherData(element) {
-        var para = document.createElement("P");
-        var t = document.createTextNode(element);
-        para.appendChild(t);
-        document.getElementById("weather_data").appendChild(para);
-      }
-  
-      function addWeatherDescription(element) {
-        var para = document.createElement("P");
-        var t = document.createTextNode(element);
-        para.appendChild(t);
-        document.getElementById("weather_description").appendChild(para);
-      } */
-  
       function addWeatherIcon(element) {
         document.querySelector("img").src = `https://openweathermap.org/img/w/${element}.png`;
       }
